@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507215823554",
+    "project_id": "onrent1-6f1fb",
+    "storage_bucket": "onrent1-6f1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507215823554:android:e4cbb15f1ae7319237f15b",
+        "android_client_info": {
+          "package_name": "com.myactivity.onrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507215823554-ro5b72hiv3n7eohs7v2fk6oumklr4oob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn22F1NaN-qAiDZnW6KBz5lKDEa3-zkho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507215823554-ro5b72hiv3n7eohs7v2fk6oumklr4oob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

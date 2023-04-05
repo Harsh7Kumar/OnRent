@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873007664273",
+    "firebase_url": "https://onrent-62d1c-default-rtdb.firebaseio.com",
+    "project_id": "onrent-62d1c",
+    "storage_bucket": "onrent-62d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873007664273:android:005a360ac33c4baf9c8330",
+        "android_client_info": {
+          "package_name": "com.myactivity.onrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873007664273-3ukroa97m1d31bhg5ahcggdtjbltr5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxZyqayJgw6cjRcIEsS2sl9dJ9JSHkbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873007664273-3ukroa97m1d31bhg5ahcggdtjbltr5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
