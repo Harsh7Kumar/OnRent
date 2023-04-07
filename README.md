@@ -4,7 +4,7 @@
 <li> Firebase is used as Storage server in which data of rooms and flats are stored. </li>
 
 <li> Splash Screen of App </li>
-![Screenshot_20230405-174429~2-modified](https://user-images.githubusercontent.com/90342116/230559357-ad4e68bd-e17e-4879-8b80-01301e6008eb.png)![Screenshot_20230405-174451~2-modified](https://user-images.githubusercontent.com/90342116/230559363-6e28e3ba-6688-4839-870f-982dd63d7ac7.png)
+![Screenshot_20230405-174429~2-modified](https://user-images.githubusercontent.com/90342116/230559723-2df04283-f374-499e-abfc-9b8a99b9ca7e.png)
 
 <li> Home Activity of App </li>
 ![Screenshot_20230405-180705~2-modified](https://user-images.githubusercontent.com/90342116/230559418-3915795c-aa97-4103-8d8b-a76295f71c21.png)
