@@ -41,7 +41,7 @@
         android:maxLines="2"
         android:text="1 Bed Room"
         android:textColor="@color/black"
-        android:textSize="20sp"
+        android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -55,7 +55,7 @@
         android:layout_marginTop="4dp"
         android:text="Description:- "
         android:textColor="@color/black"
-        android:textSize="22sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/short_description" />
@@ -69,11 +69,13 @@
         android:layout_marginEnd="16dp"
         android:text="Long Description"
         android:textColor="@color/black"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text" />
 
     <Button
+        android:id="@+id/apply_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
@@ -81,6 +83,7 @@
         android:layout_marginEnd="16dp"
         android:backgroundTint="@color/back"
         android:text="Apply"
+        android:padding="16dp"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
